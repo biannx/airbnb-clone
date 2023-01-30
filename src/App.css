@@ -54,9 +54,10 @@ nav > .nav-logo{
   width: fit-content;
   left: 12px;
   top: 12px;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 0.9rem;
   color: #222222;
+  letter-spacing: 1px;
 }
 .card-body > .card-rating >i{
   color: #FE395C;
