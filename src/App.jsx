@@ -27,7 +27,7 @@ function App() {
          {cards}
         </div>
       </section>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
